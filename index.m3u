@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WDAFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/WDAF-TV_Fox4KC_logo.png" group-title="News;FOX;NFL;Sports",WDAF-DT1 (720p)
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:-1 tvg-id="WJBKDT1.us" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="News;FOX;NFL;Sports",FOX 2 Detroit MI (WJBK) (720p)
+https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
+#EXTINF:-1 tvg-id="KTVUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News;FOX;NFL;Sports",FOX 2 San Francisco CA (KTVU) (720p)
+https://apollo.production-public.tubi.io/live/ac-ktvu.m3u8
+#EXTINF:-1 tvg-id="KDFWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="General",FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
+https://apollo.production-public.tubi.io/live/ac-kdfw.m3u8
+#EXTINF:-1 tvg-id="WAGADT1.us" tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="News;FOX;NFL;Sports",FOX 5 Atlanta GA (WAGA-TV) (720p)
+https://apollo.production-public.tubi.io/live/ac-waga.m3u8
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="News;FOX;NFL;Sports",FOX 5 New York NY (WNYW) (720p)
+https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
+#EXTINF:-1 tvg-id="WTTGDT1.us" tvg-logo="https://i.imgur.com/ktLKla7.png" group-title="News;FOX;NFL;Sports",FOX 5 Washington DC (WTTG) (720p)
+https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
+#EXTINF:-1 tvg-id="WITIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/WITI_2020_Logo.svg/512px-WITI_2020_Logo.svg.png" group-title="News;FOX;NFL;Sports",FOX 6 Milwaukee WI (WITI) (720p)
+https://apollo.production-public.tubi.io/live/ac-witi.m3u8
+#EXTINF:-1 tvg-id="KTBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News;FOX;NFL;Sports",FOX 7 Austin TX (KTBC) (720p)
+https://apollo.production-public.tubi.io/live/ac-ktbc.m3u8
+#EXTINF:-1 tvg-id="KMSPDT1.us" tvg-logo="https://i.imgur.com/HCfd9BV.png" group-title="News;FOX;NFL;Sports",FOX 9 ST Paul Minneapolis MN (KMSP) (720p)
+https://apollo.production-public.tubi.io/live/ac-kmsp.m3u8
+#EXTINF:-1 tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News;FOX;NFL;Sports",FOX 10 Phoenix AZ (KSAZ) (720p)
+https://apollo.production-public.tubi.io/live/ac-ksaz.m3u8
+#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News;FOX;NFL;Sports",FOX 11 Los Angeles CA (KTTV) (720p)
+https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
+#EXTINF:-1 tvg-id="KSTUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News;FOX;NFL;Sports",FOX 13 Salt Lake City UT (KSTU) (720p)
+https://apollo.production-public.tubi.io/live/ac-kstu2.m3u8
+#EXTINF:-1 tvg-id="KCPQDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="General",FOX 13 Seattle WA (KCPQ) (720p)
+https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8
+#EXTINF:-1 tvg-id="WTVTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News;FOX;NFL;Sports",FOX 13 Tampa Bay FL (WTVT) (720p)
+https://apollo.production-public.tubi.io/live/ac-wtvt.m3u8
+#EXTINF:-1 tvg-id="KXVADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News;FOX;NFL;Sports",Fox 15 West Texas Abilene TX (KXVA)
+https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
+#EXTINF:-1 tvg-id="WXMIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News;FOX;NFL;Sports",FOX 17 Grand Rapids MI (WXMI) (720p)
+https://apollo.production-public.tubi.io/live/ac-wxmi.m3u8
+#EXTINF:-1 tvg-id="KBSIDT1.us" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png" group-title="General",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
+https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+#EXTINF:-1 tvg-id="WFXTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="News;FOX;NFL;Sports",Fox 25 Boston (WFXT-TV) [Geo-blocked]
+https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+#EXTINF:-1 tvg-id="KRIVDT1.us" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="News;FOX;NFL;Sports",FOX 26 Houston TX (KRIV) (720p)
+https://apollo.production-public.tubi.io/live/ac-kriv.m3u8
+#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="News;FOX;NFL;Sports",FOX 29 Philadelphia PA (WTXF-TV) (720p)
+https://apollo.production-public.tubi.io/live/ac-wtxf.m3u8
+#EXTINF:-1 tvg-id="WDAFDT2.us" tvg-logo="https://i.imgur.com/ocs2DeU.png" group-title="News;FOX;NFL;Sports",WDAF-DT2 (720p)
+https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
+#EXTINF:-1 tvg-id="WFLDDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News;FOX;NFL;Sports",FOX 32 Chicago IL (WFLD) (720p)
+https://apollo.production-public.tubi.io/live/ac-wfld.m3u8
+#EXTINF:-1 tvg-id="WOFLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News;FOX;NFL;Sports",FOX 35 Orlando FL (WOFL) (720p)
+https://apollo.production-public.tubi.io/live/ac-wofl.m3u8
+#EXTINF:-1 tvg-id="WSYMDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News;FOX;NFL;Sports",FOX 47 Lansing MI (WSYM) (720p)
+https://apollo.production-public.tubi.io/live/ac-wsym.m3u8
+#EXTINF:-1 tvg-id="WTICDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/WTIC_%282020%29.svg/512px-WTIC_%282020%29.svg.png" group-title="News;FOX;NFL;Sports",Fox 61 News Hartford CT (WTIC-TV)
+https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
+#EXTINF:-1 tvg-id="WHBQDT1.us" tvg-logo="https://i.imgur.com/E9vX12j.jpg" group-title="News;FOX;NFL;Sports",WHBQ-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="NFL;Sports",Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="NFL;Sports",Fox Sports (720p)
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="NFL;Sports",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NHL;Sports",NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports;NHL",NHL (1080p)
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+#EXTINF:-1 tvg-id="WCBIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="CBS;Sports;NFL",WCBI (Columbus MI) (720p)
+https://dai.google.com/linear/hls/event/qLrnhs3RQUa2zMw9UBkroQ/master.m3u8
+#EXTINF:-1 tvg-id="WHIODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="CBS;Sports;NFL",WHIO-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="CFTODT.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsK4uMAjg0Tqo1X4wx-HTZMTo7gWoWwiwD5g&s" group-title="CTV;Canada;News",CTV Toronto
+https://cdn006.teleuptv.net/zxsJFt6VvY/playlist.m3u8
+#EXTINF:-1 tvg-id="KETSDT1.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",Arkansas PBS [Geo-blocked]
+https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+#EXTINF:-1 tvg-id="KHETDT1.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",PBS Honolulu HI (KHET) (1080p) [Not 24/7]
+https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
+#EXTINF:-1 tvg-id="WKPCDT2.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",PBS KET2 (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+#EXTINF:-1 tvg-id="WKPCDT3.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",PBS KET KY (480p)
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 tvg-id="WKMJDT1.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",PBS KET Louisville KY (WKMJ-TV) (720p)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",PBS KET World (480p)
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/PBS_Kids_Dash_%281999%29.svg/revision/latest?cb=20170814134849" group-title="PBS",PBS Kids Alaska (1080p)
+https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/PBS_Kids_Dash_%281999%29.svg/revision/latest?cb=20170814134849" group-title="PBS",PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/PBS_Kids_Dash_%281999%29.svg/revision/latest?cb=20170814134849" group-title="PBS",PBS Kids Mountain (1080p)
+https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/PBS_Kids_Dash_%281999%29.svg/revision/latest?cb=20170814134849" group-title="PBS",PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
+#EXTINF:-1 tvg-id="KUONDT1.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",PBS Lincoln NE (KUON) (1080p) [Geo-blocked]
+https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
+#EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",PBS MPT Baltimore MD (WMPB) (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSEast.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",PBS National East (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-id="PBSWest.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",PBS National West (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+#EXTINF:-1 tvg-id="WNJTDT1.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]
+https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
+#EXTINF:-1 tvg-id="WNETDT1.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",PBS New York NY (WNET) (1080p) [Not 24/7]
+https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:-1 tvg-id="WMPTDT2.us" tvg-logo="https://logotyp.us/logo/pbs/" group-title="PBS",WMPT-DT2 (PBS Create)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="Austrailia;Footy;AFL",ABC News Australia (720p)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="ABCTVSA.au" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="Austrailia;Footy;AFL",ABC TV Adelaide (720p)
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:-1 tvg-id="ABCTVQLD.au" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="Austrailia;Footy;AFL",ABC TV Brisbane (720p)
+https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:-1 tvg-id="ABCTVACT.au" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="Austrailia;Footy;AFL",ABC TV Canberra (720p)
+https://c.mjh.nz/abc-act.m3u8
+#EXTINF:-1 tvg-id="ABCTVNT.au" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="Austrailia;Footy;AFL",ABC TV Darwin (720p)
+https://c.mjh.nz/abc-nt.m3u8
+#EXTINF:-1 tvg-id="ABCTVTAS.au" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="Austrailia;Footy;AFL",ABC TV Hobart (720p)
+https://c.mjh.nz/abc-tas.m3u8
+#EXTINF:-1 tvg-id="ABCTVVIC.au" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="Austrailia;Footy;AFL",ABC TV Melbourne (720p)
+https://c.mjh.nz/abc-vic.m3u8
+#EXTINF:-1 tvg-id="ABCTVWA.au" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="Austrailia;Footy;AFL",ABC TV Perth (720p)
+https://c.mjh.nz/abc-wa.m3u8
+#EXTINF:-1 tvg-id="ABCTVPlusSydney.au" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="Austrailia;Footy;AFL",ABC TV Plus (720p)
+https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 tvg-id="ABCTVNSW.au" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="Austrailia;Footy;AFL",ABC TV Sydney (720p)
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1,tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/1200px-Fox_Footy_logo_%282015%29.svg.png" group-title="Austrailia;Footy;AFL", Fox Footy Network HD
+http://barakatiptv.com:80/Em1SsGJcKU/4MxbDiqcqM/53232
