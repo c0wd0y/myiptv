@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.txt"
 
 ## 🏈 Sports Channels
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/National_Hockey_League_logo.svg/1200px-National_Hockey_League_logo.svg.png" group-title="Sports Channels",NHL Channel (Official)
+#EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/National_Hockey_League_logo.svg/1200px-National_Hockey_League_logo.svg.png" group-title="Sports Channels",NHL Channel (Official)
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/TSN_Logo.svg" group-title="Sports Channels",TSN 1 (Main Feed)
 https://fl41.moveonjoy.com/TSN/index.m3u8
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="Sports Channels",NFL Network
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="Sports Channels",NFL Network
 https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports Channels",FOX Sports 1 (FS1)
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports Channels",FOX Sports 1 (FS1)
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="CBSSports.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/CBS_Sports_Network_2021_%28Blue%29.svg" group-title="Sports Channels",CBS Sports
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/CBS_Sports_Network_2021_%28Blue%29.svg" group-title="Sports Channels",CBS Sports
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:-1 tvg-id="TSN.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg" group-title="Sports Channels",TSN - The Ocho
+#EXTINF:-1 tvg-id="TSN.8.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg" group-title="Sports Channels",TSN - The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:-1 tvg-id="FS3" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400" group-title="Sports Channels",Fox Sports 503
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400" group-title="Sports Channels",Fox Sports 503
 https://7pal.short.gy/fox503au
 #EXTINF:-1 tvg-id="NHLCentreIce4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/NHL_Centre_Ice.svg/1200px-NHL_Centre_Ice.svg.png" group-title="Sports Channels",NHL Centre Ice 4
 https://fl1.moveonjoy.com/NHL_4/index.m3u8
@@ -29,11 +29,11 @@ https://fl1.moveonjoy.com/NHL_9/index.m3u8
 https://fl1.moveonjoy.com/NHL_11/index.m3u8
 
 ## 📰 News & Major Networks
-#EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="News & Major Networks",ABC East
+#EXTINF:-1 tvg-id="WOLO-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="News & Major Networks",ABC East
 https://fl61.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WCVB.us" tvg-logo="https://www.berklee.edu/sites/default/files/styles/scale_and_crop_16_9_large/public/2022-08/WCVB_BerkleeNow.png" group-title="News & Major Networks",ABC WCVB (Boston)
+#EXTINF:-1 tvg-id="WCVB-DT.us_locals1" tvg-logo="https://www.berklee.edu/sites/default/files/styles/scale_and_crop_16_9_large/public/2022-08/WCVB_BerkleeNow.png" group-title="News & Major Networks",ABC WCVB (Boston)
 https://livetv-fa.tubi.video/wcvb/playlist.m3u8
-#EXTINF:-1 tvg-id="WPEC.us" tvg-logo="https://static.wikia.nocookie.net/changingnewscasts/images/3/3a/WPEC_12_%28West_Palm_Beach_-_Boca_Raton_-_Ft._Pierce%29.png/revision/latest?cb=20220812194908" group-title="News & Major Networks",CBS West Palm Beach
+#EXTINF:-1 tvg-id="WPEC-DT.us_locals1" tvg-logo="https://static.wikia.nocookie.net/changingnewscasts/images/3/3a/WPEC_12_%28West_Palm_Beach_-_Boca_Raton_-_Ft._Pierce%29.png/revision/latest?cb=20220812194908" group-title="News & Major Networks",CBS West Palm Beach
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
 #EXTINF:-1 tvg-id="KCRA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/KCRA_logo.svg/1024px-KCRA_logo.svg.png" group-title="News & Major Networks",NBC KCRA (Sacramento)
 https://livetv-fa.tubi.video/kcra/playlist.m3u8
@@ -41,9 +41,9 @@ https://livetv-fa.tubi.video/kcra/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf398b8e02600071deda5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bb95718e-5f7a-42ff-afbd-dd69a8d9c750
 
 ## 🎶 Music Channels
-#EXTINF:-1 tvg-id="Vevo2000s.au" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="Music Channels",Vevo TV 2000s (Australia)
+#EXTINF:-1 tvg-id="plex.tv.Vevo.2K.plex" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="Music Channels",Vevo TV 2000s (Australia)
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo70s.au" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="Music Channels",Vevo TV 70s (AUNZ)
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`70s.plex" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="Music Channels",Vevo TV 70s (AUNZ)
 https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo80s.au" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="Music Channels",Vevo TV 80s (AUNZ)
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`80s.plex" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="Music Channels",Vevo TV 80s (AUNZ)
 https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
