@@ -32,5 +32,8 @@ https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CBS_logo_1961.svg/1200px-CBS_logo_1961.svg.png" group-title="North American & Major Networks",CBS Network
 https://fl1.moveonjoy.com/CBS/index.m3u8
 
-#EXTINF:-1 tvg-id="WPEC-DT.us_locals1." tvg-logo="https://static.wikia.nocookie.net/changingnewscasts/images/3/3a/WPEC_12_%28West_Palm_Beach_-_Boca_Raton_-_Ft._Pierce%29.png" group-title="North American & Major Networks",CBS West Palm Beach
+#EXTINF:-1 tvg-id="WPEC-DT.us_locals1" tvg-logo="https://static.wikia.nocookie.net/changingnewscasts/images/3/3a/WPEC_12_%28West_Palm_Beach_-_Boca_Raton_-_Ft._Pierce%29.png" group-title="North American & Major Networks",CBS West Palm Beach
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon Canada.ca",Nicktoons (720p)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
