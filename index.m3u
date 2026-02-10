@@ -43,3 +43,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2",Showtime East
 https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2",National Geographic East
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
