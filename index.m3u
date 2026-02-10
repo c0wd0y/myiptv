@@ -2,7 +2,7 @@
 
 
 ## 🏈 Sports Channels
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/TSN_Logo.svg" group-title="Sports Channels",TSN 1 (Main Feed)
+#EXTINF:-1 tvg-id="TSN.HD.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/TSN_Logo.svg" group-title="Sports Channels",TSN 1 (Main Feed)
 https://fl41.moveonjoy.com/TSN/index.m3u8
 #EXTINF:-1 tvg-id="TSN.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg" group-title="Sports Channels",TSN - The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
