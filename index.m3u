@@ -1,26 +1,36 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-
 ## 🏈 Sports Channels
 #EXTINF:-1 tvg-id="TSN.HD.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/TSN_Logo.svg" group-title="Sports Channels",TSN 1 (Main Feed)
 https://fl41.moveonjoy.com/TSN/index.m3u8
+
 #EXTINF:-1 tvg-id="TSN.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg" group-title="Sports Channels",TSN - The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/National_Hockey_League_logo.svg/1200px-National_Hockey_League_logo.svg.png" group-title="Sports Channels",NHL Channel (Official)
 https://nhl-firetv.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Fox.Sports.Alternate.HDTV.Feed.DirecTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports Channels",FOX Sports 1 (FS1)
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/CBS_Sports_Network_2021_%28Blue%29.svg" group-title="Sports Channels",CBS Sports
 https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 ## 📰 North American & Major Networks
-#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/WFTS-TV_logo_2016.png/440px-WFTS-TV_logo_2016.png" group-title="North American & Major Networks",ABC Tampa (WFTS)
-https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
-#EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CBS_logo_1961.svg/1200px-CBS_logo_1961.svg.png" group-title="North American & Major Networks",CBS Network
-https://fl1.moveonjoy.com/CBS/index.m3u8
-#EXTINF:-1 tvg-id="WPEC-DT.us_locals1." tvg-logo="https://static.wikia.nocookie.net/changingnewscasts/images/3/3a/WPEC_12_%28West_Palm_Beach_-_Boca_Raton_-_Ft._Pierce%29.png/revision/latest?cb=20220812194908" group-title="North American & Major Networks",CBS West Palm Beach
-https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 tvg-id="CBC.News.Network.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/CBC_Logo_1992.svg" group-title="North American & Major Networks",CBC Toronto
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+
+#EXTINF:-1 tvg-id="Global.Maritimes.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Global_Halifax_logo_since_2022.svg" group-title="North American & Major Networks",Global Halifax
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf398b8e02600071deda5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=6a2f9b10-d345-11ef-9c22-0242ac120002
+
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/FX_Network_2021_logo.svg/1200px-FX_Network_2021_logo.svg.png" group-title="North American & Major Networks",FX Network
 https://fl1.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="Global.Maritimes.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Global_Halifax_logo_since_2022.svg" group-title="North American & Major Networks",Global News Halifax
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf398b8e02600071deda5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bb95718e-5f7a-42ff-afbd-dd69a8d9c750
+
+#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/WFTS-TV_logo_2016.png/440px-WFTS-TV_logo_2016.png" group-title="North American & Major Networks",ABC Tampa (WFTS)
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CBS_logo_1961.svg/1200px-CBS_logo_1961.svg.png" group-title="North American & Major Networks",CBS Network
+https://fl1.moveonjoy.com/CBS/index.m3u8
+
+#EXTINF:-1 tvg-id="WPEC-DT.us_locals1." tvg-logo="https://static.wikia.nocookie.net/changingnewscasts/images/3/3a/WPEC_12_%28West_Palm_Beach_-_Boca_Raton_-_Ft._Pierce%29.png" group-title="North American & Major Networks",CBS West Palm Beach
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
